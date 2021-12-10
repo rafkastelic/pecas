@@ -25,7 +25,7 @@ console.log("O nome da peça não pode ser vazio")
     console.log("O nome deve ter mais de 3 caracteres, digite um nome adequado")
 }
 switch(nomePeca.length){
-    case 0:
+case 0:
     console.log("o nome da peça não pode ser vazio")
 break;
 
@@ -37,5 +37,5 @@ break;
 
 default:
         console.log("O nome da peça está adequado")
-    
-    }
+
+}
